@@ -1,0 +1,3 @@
+include ':app'
+include '..:kit.sdk:creative:library'
+include '..:kit.sdk:core:library'
